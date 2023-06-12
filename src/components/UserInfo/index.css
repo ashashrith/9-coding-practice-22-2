@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+
+.info-cont {
+  height: 35vh;
+  width: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  height: 23vh;
+  width: 30vh;
+  background-size: cover;
+}
+
+.heading {
+  font-size: 13px;
+  font-weight: 700;
+  color: black;
+}
+
+.para {
+  font-size: 10px;
+  color: #616e7c;
+  font-family: 'Roboto';
+}
